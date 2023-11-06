@@ -11,12 +11,7 @@ const CardS = (props) => {
             </div> 
             <h1>{product.productName}</h1>
             <h4>Rs.{product.price}</h4>
-        
-        
-    
-           
-
-        </div>
+     </div>
     )
 }
 export default CardS
